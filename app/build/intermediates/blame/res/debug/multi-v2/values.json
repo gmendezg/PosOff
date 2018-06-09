@@ -1,0 +1,55 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\admin\\AndroidStudioProjects\\LocationTracker-master1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\admin\\AndroidStudioProjects\\LocationTracker-master1\\app\\src\\main\\res\\values\\defaultTheme.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "2",
+                        "startOffsets": "54",
+                        "endLines": "6",
+                        "endColumns": "10",
+                        "endOffsets": "247"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "226",
+                        "endLines": "8",
+                        "endColumns": "10",
+                        "endOffsets": "419"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\admin\\AndroidStudioProjects\\LocationTracker-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "128,56",
+                        "endColumns": "52,71",
+                        "endOffsets": "176,123"
+                    },
+                    "to": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "101,154",
+                        "endColumns": "52,71",
+                        "endOffsets": "149,221"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\admin\\AndroidStudioProjects\\LocationTracker-master1\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "45",
+                        "endOffsets": "96"
+                    }
+                }
+            ]
+        }
+    ]
+}
